@@ -2,6 +2,9 @@
 
 # SQL Fundamentals:
 
+
+![certificate](./certificate.jpg)
+
 ## The following is a summary of my work during [a few courses on Datacamp](https://www.datacamp.com/tracks/sql-fundamentals)
 
 - **Functions for manipulating data in PostgreSQL:**
