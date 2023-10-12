@@ -2,9 +2,6 @@
 
 # SQL Fundamentals:
 
-
-![certificate](./certificate.jpg)
-
 ## The following is a summary of my work during [a few courses on Datacamp](https://www.datacamp.com/tracks/sql-fundamentals)
 
 - **Functions for manipulating data in PostgreSQL:**
@@ -30,4 +27,6 @@
 
 - **Joining Data in SQL:** `FULL JOIN`, `CROSS JOIN`, `INNER JOIN`, `LEFT JOIN`, `RIGHT JOIN`, `WHERE Subqueries`
 	- [notebook link](https://github.com/ursumarius/sql-datacamp/blob/main/joining-data-sql/joining-data.ipynb)
+
+![certificate](./certificate.png)
 
