@@ -6,7 +6,14 @@
 
 
 - **Functions for manipulating data in PostgreSQL:**
-	- ** course in progress **
+	- Using Extensions: `SIMILARITY`, User-defined datatypes, User-defined functions,
+	- Full text search: `TSVECTOR`, `LIKE`
+	- String operations: `SUBSTR`, `POSITION`, `LENGTH`, `CONCAT`, `REPLACE`, Changing Case
+	- Datetime operations: `DATE_TRUNC`, `TIMESTAMP`, `CAST`, `INTERVAL`
+	- Filtering using: Contains `@>` or `ANY`
+	- Accessing data in an Array using index `[][1]` and `=`
+	- Using `INFORMATION_SCHEMA.COLUMNS` to understand table datatypes
+	- [PostgreSQL - notebook link](https://github.com/ursumarius/sql-datacamp/blob/main/PostgreSQL-manipulating-data-functions/PostgreSQL-manipulating-data.ipynb)
 
 - **Summary Stats and Window Functions in PostgreSQL:**
 	- Improving readability with `STRING_AGG` and `COALESCE`
