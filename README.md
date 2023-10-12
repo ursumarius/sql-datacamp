@@ -20,7 +20,7 @@
 	- Pivoting to reshape for readability
 	- `LAST_VALUE`, `FIRST_VALUE`, `LEAD`, `PAGING`, `RANK`
 	- The most commonly used subclauses: `ORDER BY` and `PARTITION BY`
-	- [notebook link](https://github.com/ursumarius/sql-datacamp/blob/main/postgresql-summary-stats-window-functions/summary-stats-window-functions.ipynb)
+	- [notebook link](https://github.com/ursumarius/sql-datacamp/blob/main/PostgreSQL-summary-stats-window-functions/PostgreSQL-summary-stats-window-functions.ipynb)
 
 - **Data Manipulation in SQL:** `CTE's`, `PARTITION`, `RANK`, `SLIDING WINDOWS`, `CASE`, `Subqueries`
 	- [notebook link](https://github.com/ursumarius/sql-datacamp/blob/main/data-manipulation-in-sql/manip-data.ipynb)
